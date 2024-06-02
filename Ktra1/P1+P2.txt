@@ -1,0 +1,13 @@
+KIỂM TRA 1
+Ngày 30/9/2023
+
+1. Viết chương trình Matlab P1.m với các yêu cầu sau: [6 điểm]
+- Vẽ tín hiệu liên tục x(t) [biểu thức được cho trên bảng tại lớp].
+- Vẽ tín hiệu rời rạc được lấy mẫu với tốc độ f = 10 (kHz): lấy mẫu tự nhiên, lấy mẫu và giữ. Thời gian vẽ trong 5 chu kỳ của tín hiệu điều hòa trong x(t).
+2. Viết chương trình Matlab P2.m với các yêu cầu sau: [4 điểm]
+- Vẽ tín hiệu tuần hoàn x(n) có chu kỳ trung tâm là r(n+6)-r(n)-6u(n). Thời gian vẽ 4 chu kỳ.
+- Tính năng lượng trong 1 chu kỳ và công suất.
+---- Yêu cầu----
+1. Trình bày file word sau đó chuyển sang file pdf với tên file theo định dạng họ tên đầy đủ không dấu, ví dụ: LeMinhThanh.pdf
+2. Nội dung: ghi lại câu hỏi, trình bày mã nguồn, hình kết quả, trả lời theo yêu cầu câu hỏi và nhận xét.
+

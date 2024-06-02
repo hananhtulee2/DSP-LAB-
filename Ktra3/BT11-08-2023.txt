@@ -1,0 +1,1 @@
+Given the sinusoidal signals including 2 frequencies of 2 kHz and 8 kHz is sampled at the rate of 40 kHz. Plot the naturally sampled signal, the flat-top sampled signal, and the spectrum of the origin signal and the corresponding discrete time signal.
